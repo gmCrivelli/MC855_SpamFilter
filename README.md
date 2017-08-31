@@ -3,9 +3,9 @@ Filtro de Spam para MC855 - Unicamp
 
 Desenvolvido por:
 
-Matheus Jun Ota
-Gustavo de Mello Crivelli
-Lucas de Souza e Silva
+Matheus Jun Ota  
+Gustavo de Mello Crivelli  
+Lucas de Souza e Silva  
 Matheus Laborão Netto
 
 ## Arquivos
