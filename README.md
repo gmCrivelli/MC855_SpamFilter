@@ -10,7 +10,7 @@ Matheus Laborão Netto
 
 ## Arquivos
 
-* **emailcollection.txt** - Coleção de emails Spam e Ham, retirados do [https://www.cs.cmu.edu/~./enron/](Enron Email Dataset)
+* **emailcollection.txt** - Coleção de emails Spam e Ham, retirados do [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 * **smscollection.txt** - Coleção de SMS Spam e Ham
 * **emailset.txt** - Contagem de palavras dividida em Spam e Ham, gerada via execução de mapper.py e reducer.py em Hadoop com input de emailcollection.txt
 * **smsset.txt** - Contagem de palavras dividida em Spam e Ham, gerada via execução de mapper.py e reducer.py em Hadoop com input de smscollection.txt
